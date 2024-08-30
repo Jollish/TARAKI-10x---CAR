@@ -57,7 +57,7 @@ function TBI() {
 
       <div className="font-satoshi mt-24 laptop-s:mt-32 desktop-s:mt-36 desktop-m:mt-40">
         <h1 className="font-bold text-[1rem] laptop-s:text-xl desktop-s:text-2xl text-center">
-          Technological Business Incubator
+          Technological Business Incubators
         </h1>
         <section className="grid grid-cols-1 place-items-center justify-items-center tablet:grid gap-4 tablet-m:gap-1  tablet:grid-cols-2 tablet-m:grid-cols-3 tablet:px-12 laptop-m:px-24 desktop-s:px-28 desktop-m:px-36">
           <a href="/tbi/intto">
